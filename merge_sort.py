@@ -1,6 +1,5 @@
 # 기본설정
-import random, time, sys
-sys.setrecursionlimit(30000)
+import random, time
 ######################################################################
 # 변수
 arr_size = 1000
